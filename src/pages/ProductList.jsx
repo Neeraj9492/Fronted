@@ -149,7 +149,7 @@ function ProductList({ searchValue = "", onSearchChange = () => {} }) {
 
             <a
               href="#shop-products"
-              className="mt-7 inline-flex items-center gap-3 rounded-full bg-[#f7f3e9] px-5 py-3 text-sm font-bold text-[#153d32] transition hover:bg-white"
+              className="inline-flex items-center justify-center gap-2 rounded-full bg-[#17483B] px-6 py-4 font-semibold text-white shadow-md transition-all duration-200 hover:bg-[#10372D] hover:shadow-lg"
             >
               Explore collection <span aria-hidden="true">↘</span>
             </a>
